@@ -88,3 +88,4 @@ print(sum(map(int, str(2**1000))))
 
 # 最后推荐一篇文章: [Python One-liner Games](http://arunrocks.com/python-one-liner-games/)
 exit()
+
